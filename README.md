@@ -64,3 +64,7 @@ This project demonstrates how SQL can be used to analyze business data and ident
 - Profit and profit margin calculations
 - Business analysis and problem-solving
 - Translating data findings into actionable recommendations
+
+## Dashboard Preview
+
+![Sales Profitability Dashboard](salesanalysisdashboard.png)
